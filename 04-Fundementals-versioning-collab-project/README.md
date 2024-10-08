@@ -1,4 +1,10 @@
-1. Create a new repository for you and your partner
+# Collabs
+
+**Instructions**: 
+
+
+
+1. Create a new repository for you and your partner and add your partner as a collaborator
 2. Both partners clone the repo in to your computer
 3. 1 partner should create the README.md
 4. Discuss with your partner the application you are looking to make
