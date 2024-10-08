@@ -1,4 +1,4 @@
-# Collabs
+# Collab Project Git
 
 **Instructions**: 
 
@@ -10,10 +10,10 @@
 4. Discuss with your partner the application you are looking to make
 5. Now lets create 2 branches 1 for each partner
 6. Now each partner should write into the README.md
-7. Name of the project (both partners)
-8. The features (1 partner)
-9. Members (1 partner)
-10. The steps to accomplish the features (1 partner)
-11. Technologies (1 partner)
-12. The main pages (1 partner)
-13. Github repo links for partners (both partners)
+    1. Name of the project (both partners)
+    2. The features (1 partner)
+    3. Members (1 partner)
+    4. The steps to accomplish the features (1 partner)
+    5. Technologies (1 partner)
+    6. The main pages (1 partner)
+    7. Github repo links for partners (both partners)
