@@ -8,3 +8,4 @@
 * Go back to master and create another branch named `hotfix` from master. Note that the changes in your previous branch, `content`, are not there. 
 * View all branches on terminal.
 CHanged by Omar on the local
+Changed on the remote by "Partner"
